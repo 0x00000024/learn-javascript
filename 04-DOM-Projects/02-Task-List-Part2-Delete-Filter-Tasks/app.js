@@ -50,3 +50,5 @@ function removeTask(e) {
         console.log(e.target);
     }
 }
+
+// TODO
